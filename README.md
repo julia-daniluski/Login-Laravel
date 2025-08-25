@@ -7,7 +7,7 @@ O sistema permite o **registro de usuários**, autenticação de login e gerenci
 
 ## 🚀 Tecnologias Utilizadas
 - [PHP 8+](https://www.php.net/)
-- [Laravel 10+](https://laravel.com/)
+- [Laravel 12](https://laravel.com/)
 - [Composer](https://getcomposer.org/)
 - [MySQL](https://www.mysql.com/) )
 - [Bootstrap 5](https://getbootstrap.com/)
