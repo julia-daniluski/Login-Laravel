@@ -24,7 +24,7 @@ O sistema permite o **registro de usuários**, autenticação de login e gerenci
 
 ## 📷 Demonstração
 
-### Tela inical
+### Tela inicial
 <img width="1892" height="876" alt="Cadastro" src="https://github.com/user-attachments/assets/bce98c0d-b4dc-450b-98ad-986fc024dcc6" />
 
 ### Tela de Login
